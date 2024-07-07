@@ -1,0 +1,142 @@
+
+*{
+    margin: 0;
+    padding: 0;
+   background-color: #f8f9f9;
+   
+
+}
+
+#sec0{
+    width: 1400 px;
+    height: 100vh;
+    margin: 1em;
+    padding: 1em;
+    
+}
+
+#ithem1{
+    width: 9%;
+    height: 97%;
+    border-radius: 1em;
+    margin: 1em;
+    float: left;
+}
+
+.img{
+    width: 92%;
+    height: 10%;
+    opacity: 0.5;
+}
+#sec2{
+    width: 85%;
+    height: 97%;
+    border-radius:1em ;
+    margin:1em;
+    float: right;
+}
+
+#ithem2{
+    width: 65%;
+    height: 86%;
+    float: left;
+
+}
+
+#inptTxtArea{
+ width: 98%;
+ height: 100%
+ 
+}
+
+#text{
+    width: 98%;
+    height: 90% 
+    
+}
+
+#control{
+    width: 98%;
+    height: 12%;
+}
+
+
+#ithem3{
+    width: 33%;
+    height: 96%;
+    float: right;
+}
+
+#inf{
+    opacity: 0.5;
+
+}
+#outtTextArea{
+    width:80% ;
+    height: 25%;
+    border: none;
+}
+
+
+.msj{
+    font-family:'Courier New', Courier, monospace;
+
+}
+
+#encriptar{
+    background-color: #438989;
+    padding: 15px;
+    border: none;
+    border-radius: 14px;
+    width: 20%;
+    
+}
+#encriptar:hover{
+    background-color:darkgray;
+}
+
+#desencriptar{
+    background-color: #438989;
+    padding: 15px;
+    border:#f8f9f9;
+    border-radius: 14px;
+    width: 20%;
+
+}
+
+#desencriptar:hover{
+    background-color:darkgray;
+}
+
+#resul{
+    height: 42%;
+    
+}
+
+#outtTextArea{
+    height: 28%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+#cop{
+    height: 25%;
+   
+   
+}
+.copiar{
+    background-color: #438989;
+    padding: 15px;
+    border:#f8f9f9;
+    border-radius: 14px;
+    width: 20%;
+}
+.copiar:hover{
+    background-color:darkgray;
+
+}
+
+.hidden {
+    display: none;
+}
+
+
